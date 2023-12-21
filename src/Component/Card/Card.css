@@ -1,3 +1,7 @@
+.card-container {
+    text-align: center;
+    margin-top: 50px;
+}
 .estilo-card {
     border: 1px solid black;
     border-radius: 10px; 
